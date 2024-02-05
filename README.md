@@ -1,4 +1,4 @@
-# Weather App
+# Mayaz Meteor
 
 A weather app that can be run on both Android & IOS. Made with Flutter.
 
@@ -45,3 +45,13 @@ Resolve the errors and warnings that are shown in the application.
   https://bloclibrary.dev
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
+
+### Pages
+#### Home
+![image](https://github.com/tawsifrm/Flutter_Weather_App/assets/121325051/e38f4b1b-4271-45a0-9e13-f156aee577e9)
+#### Navbar
+![image](https://github.com/tawsifrm/Flutter_Weather_App/assets/121325051/03ab4b5c-6569-4158-8ff4-5b036a70cff4)
+#### Radar
+![image](https://github.com/tawsifrm/Flutter_Weather_App/assets/121325051/0d234cb8-816f-4b7c-89ad-3309364879d2)
+#### News
+![image](https://github.com/tawsifrm/Flutter_Weather_App/assets/121325051/a2bb295c-801d-4249-8754-2ccc6c6b3b25)
